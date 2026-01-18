@@ -2,7 +2,7 @@
 <h3 align="center">I am a first year student at Universiti Teknologi Malaysia</h3>
 
 - 🌱 I’m currently studying **Bachelor of Computer Science (Graphics and Multimedia Software)**
-- 📄 My E-portfolio: [Click to View My Portfolio]([https://Lyuxuan-218.github.io/](https://lyuxuan-218.github.io/my-portfolio/)) 
+- 📄 My E-portfolio: [Click to View My Portfolio](https://lyuxuan-218.github.io/my-portfolio/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
